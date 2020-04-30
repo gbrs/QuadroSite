@@ -391,7 +391,7 @@ li > ol {
 
 img {
   -ms-interpolation-mode: bicubic;
-  border: 0;
+  border: 100;
   vertical-align: middle;
 }
 
